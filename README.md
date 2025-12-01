@@ -1,0 +1,82 @@
+# YOASOBI – PLAYERS (English Version)
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Play on! You and me!
+Set on the legacy!
+Play on! You and me!
+Set on the legacy!
+Whoo!
+Emotions low, my gaze fell down at the day that boots up
+Looming on me now, routine rebounds
+I know I cannot just nail it, right from the jump
+Devotion coated memory's bound
+The moment this world was freed by that hero
+In my mind, still engraved
+And I'm in awe like before
+A split second, done
+Choose now and seal your fate
+Gripping hands, holding tight, full of sweat
+The spreading map I'd look on with much care in me
+Back when I'd choose to keep on gazing on, for so long
+Now retry, now retry
+If I could restart
+If I could do every part
+Now retry, now retry
+When we hit the save, it kept our minds as they were at that time
+Now retry, now retry
+Releasing my grip
+On the flip, I've become a grown up
+Now retry, now retry
+It's all we need, come on
+Gotta proceed and type in a new name
+Play on! You and me!
+Set on the legacy!
+Play on! You and me!
+Set on the legacy!
+Play on! You and me!
+Set on the legacy!
+Play on! You and me!
+Set on the legacy! Yeah
+Dream and love, I feel all the hope grow
+You've always lit the spark
+And you've been teaching me a lot
+It all remains in my thoughts
+The unfair denotes, when no hope unfolds
+You were right by our side
+Time and time again, so bold
+Overcame it all with might
+Now retry, now retry
+If I could restart
+If I could mend every part
+Now retry, now retry
+I know I can move up above, and outshine the present
+But I know, there's no doubt
+Because it is you
+Oh, there's no way you'd ever say this
+Now retry, now retry
+Move on, and choose the continue screen
+The one true ending awaits
+Now retry, now retry
+You're choosing me though I've nothing so great to show
+Now retry, now retry
+So now, hit the save today and then connect to the new day
+Now retry, now retry
+The courage imbued as we move 'cause we are the hero
+Now retry, now retry
+It's all we need, come on
+Gotta put all your trust behind this name
+Dream and love, I feel all the hope grow
+And that call of a joy we know
+Is attained with our hands, no doubts
+When choosing how the journey's played out
+The unfair denotes when no hope unfolds
+In all this sorrow untold
+If I have you on my mind, I can proceed unconfined
+Broke through a path our adventures define
+All of this love we held inside
+So close, every journey grows
+So, continue
+Now let's go
+```
