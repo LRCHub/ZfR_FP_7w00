@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "PLAYERS (English Version)",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-01T11:51:55.058215Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "PLAYERS - English Version",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/01_PLAYERS_-_English_Version_YOASOBI.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "PLAYERS - English Version",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/02_PLAYERS_-_English_Version_YOASOBI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PLAYERS (English Version)",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_PLAYERS_(English_Version)_YOASOBI.txt"
+    }
+  ]
+}
